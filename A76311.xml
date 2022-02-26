@@ -1,0 +1,670 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation, of the life &amp; death of Sarah Beckwith, daughter of Marmaduke and Elizabeth Beckwith, of Audbrough near Massham in York-shire; who in about the twentieth year of her age departed this life, the 24th. day of the 9th. month, 1691.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76311</idno>
+            <idno type="STC">Wing B1655A</idno>
+            <idno type="STC">ESTC R170490</idno>
+            <idno type="EEBO-CITATION">45578143</idno>
+            <idno type="OCLC">ocm 45578143</idno>
+            <idno type="VID">172102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2614:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation, of the life &amp; death of Sarah Beckwith, daughter of Marmaduke and Elizabeth Beckwith, of Audbrough near Massham in York-shire; who in about the twentieth year of her age departed this life, the 24th. day of the 9th. month, 1691.</title>
+                  <author>Beckwith, Hannah.</author>
+                  <author>Beckwith, Marmaduke.</author>
+                  <author>Beckwith, Elizabeth.</author>
+               </titleStmt>
+               <extent>37 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year, 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 11 signed: Hannah Beckwith; p. 37 signed: Marmaduke &amp; Elizabeth Beckwith.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: tightly bound with some loss of print.</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beckwith, Sarah, d. 1691.</term>
+               <term>Eulogies --  England.</term>
+               <term>Christian life --  Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172102:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION OF THE LIFE &amp; DEATH <hi>OF Sarah Beckwith,</hi> Daughter of <hi>Mar<g ref="char:EOLhyphen"/>maduke</hi> and <hi>Elizabeth Beckwith,</hi> of <hi>Audbrough</hi> near <hi>Masſham</hi> in <hi>York-ſhire;</hi> Who in about the Twentieth Year of her Age de<g ref="char:EOLhyphen"/>parted this Life, the 24th. day of the 9th. Month, 1691.</p>
+            <q>
+               <p>Witneſſing the fulfilling of God<hi>'s</hi> ancient promiſe that in the latter Days he would power forth his Spirit upon his Servants and Hand-maids.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd out of the Mouth of Babes and Sucklings he would ſhew forth his praiſe.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leſſed are the Dead that dyes in the Lord, yea, ſaith the Spirit, for they reſt from their labours, and their works follow them, <bibl>
+                     <hi>Rev. 14.13.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>Printed in the Year, 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172102:2"/>
+            <pb n="3" facs="tcp:172102:2" rendition="simple:additions"/>
+            <head>
+               <hi>The</hi> Relation of <hi>HANNAH BECKWITH,</hi> Touching the exerciſe of her dear S<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> before and in the time of her ſickneſs<g ref="char:punc">▪</g> And th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, delivered by her a little before her Death <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as could be well remembred; With a Te<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ony concerning her.</head>
+            <p>I Being very often with my ever dear and wellbeloved Siſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me of her ſick<g ref="char:EOLhyphen"/>neſs, and being truly ſenſiable of the won<g ref="char:EOLhyphen"/>derfull dealings of the Lord with her, and of his unſpeakable Love to her, in her great exer<g ref="char:EOLhyphen"/>ciſe to her great comfort; I called to mind, yea, it came freſh into my remembrance, what a ten<g ref="char:EOLhyphen"/>der frame of ſpirit ſhe had been off, even from her Child-hood, which I ſaw the Lord had not forgot, but had that regard unto it, as to reward the ſame into her boſom manyfold, and I can<g ref="char:EOLhyphen"/>not forbear in the firſt place, in ſhort, to make mention thereof, in order to what I have to ſay <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oncerning her exerciſe in the time of her ſick<g ref="char:EOLhyphen"/>neſs, before the Tabernacle was laid down.</p>
+            <p>She was endued with an underſtanding from her child-hood, and in the years of her Youth beyond the moſt of her equals of her age: So<g ref="char:EOLhyphen"/>ber and Grave in her deportment nor adicted <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o light and needleſs words nor ſuch commu<g ref="char:EOLhyphen"/>nication as corrupts good manners, but moſt appeared amongſt us her Siſters, and the reſt of the Family, as one who had ſet a watch
+<pb n="4" facs="tcp:172102:3" rendition="simple:additions"/> before her Spirit, that ſhe might not offend the Lord, nor be of evill example amongſt Us; ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was pittifull, and therein courtious and kind to all that ſtood in need, ſhe was tenderly obe<g ref="char:EOLunhyphen"/>dient to her Parents, and affectionate kind to us her Siſters, and in the latter years of her Age<g ref="char:punc">▪</g> ſhe was given much to a retiredneſs, and though carefull in the things of this World; yet as one that uſed the world as not uſing it: And as o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſincerely devoted to ſerve the Lord, and the Kingdom which hath no end, and the righte<g ref="char:EOLhyphen"/>ouſneſs thereof: Not doubting but (as the Lor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaw meet) other thin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would be added, ſhe w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> obſerved often in the evening when her wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was much over, to walk into the Fields, and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her return often appeared to have had a tende<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exerciſe upon her ſpirit in brokenneſs, and whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her ſickneſs and weakneſs of body begun to gro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon her, and her exerciſe before the Lord as to another world, did inlarge in her, ſhe got little reſt or ſleep, for many nights together, yet he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> underſtanding was kept cleer, and her memory ſound, which ſhe often ſaid was a great mercy to her, and praiſed God for it.</p>
+            <p>And on the 19th. day of the 9th. Month, 1691 She being ſorly troubled with ſhortneſs of breat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we did not expect according to outward ap<g ref="char:EOLunhyphen"/>pearance, ſhe ſhould have lived over that nigh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſhe alſo told us, ſhe queſtioned whether <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might live till morning or no; But in pleaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:172102:3" rendition="simple:additions"/> the Lord to give her ſome eaſe, and ſhe being in Bed, deſired us to raiſe her up, and ſo we having done ſo ſhe began to ſpeak of the dealings of the Lord with her, and of the many temptations that the wicked one laboured to enſnare withall, of which ſhe ſaid ſhe had been ſenſible: She deſir<g ref="char:EOLhyphen"/>ed us that were young in yeares to prize our time, not knowing how few days we had to live; for ſaid ſhe, I did not think my time had been ſo near an end: Said again many were the temptations of the enemy, and more eſpecially <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Youth, by preſenting length of days, and perſwading them that its ſoon enough for them to trouble themſelves with ſuch a concerne, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ſaid ſhe, ſo would he have perſwaded me, and many wayes was I ſo tempted by him, which cauſed my exerciſe to be ſuch, as I was nearly brought to diſpaire, And then ſaid ſhe, I ſought the Lord night and day, when no Eye ſaw, no Eares heard, but the Lord alone, who heard my call, and cauſed a cry to run through me, that he had good will for me, and the Lord after gave me ſome comfortable aſſurance of my ſalvation: But the enemy hath been very bu<g ref="char:EOLhyphen"/>ſie, ſaith ſhe, and hath ſurely huried me ſince I begun with this illneſs; She ſaid it was hard to live in this World and not ſin againſt the Lord, and ſaid alſo, if it might be well with her, it were better for her to dye then to live: And with great <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erveney of Spirit ſhe beſought the
+<pb facs="tcp:172102:4"/>
+               <pb n="4" facs="tcp:172102:5" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:172102:5" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:172102:6" rendition="simple:additions"/> Lord to ſpare her, ſaying, Lord add one other day to me that I may ſeek thee, and that I ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feel thee, and O Lord, give me full aſſurance of my ſalvation before I depart hence: Many times ſaying, O Lord, let not my diſtempou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> overcome my ſence till I come to a full Injoy<g ref="char:EOLhyphen"/>ment of thee, and O Lord, I pray thee let not my deſires ceaſe, till thou anſwer the deſires o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my heart, and let nothing quench my thirſt, but thy love: And ſo ſhe continued in ſuplica<g ref="char:EOLhyphen"/>tion to the Lord for a conſiderable time: And the Lord was pleaſed to anſwer her deſires to the glading of her heart, and cauſeing her Cup to overflow: So that living praiſes, and Heavenly melodious ſounds run through her to the God of her ſalvation; and ſo ſhe continued in a ſwee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and heavenly frame, many times ſaying, O tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I had breath to praiſe the Lord, O that I ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> breath to praiſe his Name; and at many time<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhe gave good and tender advice to Us, her Siſters deſireing us to love and fear the Lord a<g ref="char:EOLhyphen"/>bove all, and to keep in the <hi>Truth;</hi> ſaying, O preſs after it, to feel the working of it in your own hearts; And when you are in it, keep in it, and under the government of it, and heed not to deck your ſelves, but be meet and low, ſaying, None ought to pride them<g ref="char:EOLunhyphen"/>ſelves in any Induements, neither in Beauty not in any o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her thing, becauſe it was not their<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but the Lords, who gave it them, and can tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:172102:6" rendition="simple:additions"/> it away when he pleaſeth, ſaying, what is all now to me; tenderly adviſing us not to let any thing in this World ſteal away our mindes. She alſo ſpake of the ſtate of many, and ſaid, there are many that were grown careleſs, and was gotten into liberty, and ſuch were ill ex<g ref="char:EOLhyphen"/>amples to thoſe that were coming up; and ſaid there are many that comes to Meetings, and profeſſes the Truth, that knows but little what Truth is; and ſaid alſo, it did not conſiſt only in comeing to Meetings, and wearing plain ap<g ref="char:EOLhyphen"/>parell and the like, unleſs they came to feel the workings of truth in their own hearts, for ſaid ſhe, all ſuch outward appearances will ſtand in no ſtead, without the love of God be inwardly felt, and enjoyed; for ſaid ſhe, it is an eaſie thing to come to Meetings, and ſome are ready to think that doing ſo, and behaveing themſelves ſoberly before this or the other perſon is ſuffici<g ref="char:EOLhyphen"/>ent: But ſaid ſhe, the Lord ſees at all times, and he will have no ſuch mockery; but ſaid ſhe, I bleſs God, I have not been guilty of ſeeming what I was not: But O how did her love run forth to thoſe who were faithfull, ſaying they were near and dear to her, and much deſired the company of ſuch as feared the Lord, and loved the Truth, and walked therein: She wonderfully praiſed the love and mercies of the Lord to her; ſaying, it is not for my deſerts, for I had nothing to ingage the Lord with, but
+<pb n="8" facs="tcp:172102:7" rendition="simple:additions"/> it is his free love to me: She often deſired the Lord to give her a little eaſe, that ſhe might have a more full enjoyment of him, and indeed ſhe was ſo much born up over her weakneſs, that at many times ſhe felt little or no pain that we could diſerne, but with a mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and cheareful countinance, would ſay, I am well every way but for want of breath; and the Lord can raiſe me up if he ſee it good forme, and if not, I am content, I do believe which way ſo ever it be, it will be for my good. And ſhe ſpeaking of the way of truth, ſaid it was a ſtraight and narrow way, and not to be kept in, without a daily watch, (and ſaid it is this days bread and not that which was fed of yeſterday that will ſatisfie) for there are many by paths, but as <hi>Job</hi> ſaith; ſaid ſhe. <hi>There is a path which no fool knoweth, which the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olterous eye hath not ſeen, the Lyons whelp hath not troden it, nor the fierce Lyon paſſed by it.</hi> But ſaid ſhe, although a ſtrait way, yet it is a pleaſant path, and delightſome: Oh ſaid the here is peace in abundance, it is ſo ſweet I could delight always to enjoy it, and to live therein, the Gold of <hi>Opher</hi> is not worthy to be compared to it; And thus continued ſhe in a ſweet frame of Spirit, her mind being wholy taken up with heavenly thoughts, ſaying Lord give me fully to drink of the well of water, that is within the Gate, for thou haſt raviſh'd my heart, and I am overcome with thy love. Oh
+<pb n="9" facs="tcp:172102:7" rendition="simple:additions"/> I long, I long; O Lord open thou the windows of heaven, and power in of thy bleſſings into my ſoul, untill there be not room enough to re<g ref="char:EOLhyphen"/>ceive, that I may bleſs and praiſe thy name and that I may ever ſwim in the Ocion and ſtreams of thy love and living praiſe to the Lord, with mellodious ſounds aboundantly ſprung from her, She did alſo often adviſe thoſe that were with her to keep out of paſſion, ſaying, Oh have a care of paſſion, it hinders the proſperity of the work of God, and there is no extream in the Truth, ah it is of a meek and an heavenly quality; That afternoon before ſhe dyed ſhe deſired the Lord to ſpare her another half day if it was his will, that ſhe might enjoy him, and that ſhe might praiſe him, and ſaid I have known Chriſt to be my leader, and my teacher ſhall be no more removed into a corner, for mine eyes have ſeen my teacher, and mine eares hath heard a voice ſaving, this is the way walk in it ſhe after deſired the Lord to give her an eaſie paſſage, and that night ſhe deſired that none but Friends might ſit up with her, her love be<g ref="char:EOLhyphen"/>ing abundantly large to them. And ſome of us going to bed, haveing wanted our reſt ſhe ten<g ref="char:EOLhyphen"/>derly took her leave of us, and ſaid if ſhe were worſe, ſome ſhould call, and takeing me by the hand ſaid, dear Siſter thou haſt been near and dear to me and carefull of me the Lord requite thee; and be near to thee when thou comes to
+<pb n="10" facs="tcp:172102:8" rendition="simple:additions"/> lye on thy dying bed, and ſo near the Morning her diſtemper growing upon her ſhe ſaid I am as ſenſiable as any of you and I am well content to dye ſaying I have no doubt of my Salvation forever, I am going to dear <hi>Robert Lodge,</hi> with many more ſweet expreſſions, which could not well be remembred, nor perfectly heard, her voice being very low, ſhe was very ſenſiable to the laſt ſo far as we could obſerve and ſpoke to within a very little time wherein ſhe drew her laſt breath, ſaying Lord take me away, Lord take me away, and preſently after ſhe quietly and comfortably paſſed away, out of this world, to live for ever in the World which hath no end.</p>
+            <p>She was a dear Siſter to me a faithfull com<g ref="char:EOLhyphen"/>fortable companion, and help in the Lord and hard it was to me freely to part with her, if it, had been the Lords will that we might a little longer have enjoy'd each other in the body, to have been each others help, and cauſe of joy, but being ſo fully ſatisfied that the love and bleſſings of the Lord was upon her I was more willing to give her up to him who gives and takes away and can do no leſs but bleſs and praiſed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his holy name and return all glory and honour to him, who is everlaſtingly wor<g ref="char:EOLhyphen"/>thy, bleſſed for ever and for evermore.</p>
+            <p>And it is the ſervent deſire of my heart that we who are left behind may ſo live to God and
+<pb n="11" facs="tcp:172102:8"/> walk in the ever bleſſed Truth which ſhe teſti<g ref="char:EOLhyphen"/>fied to, to her latter end, that we may be made partakers of that reſt peace and joy. Which undoubtedly ſhe is already entered into.</p>
+            <closer>
+               <signed>Hannah Beckwith.</signed>
+               <dateline>
+                  <hi>Written</hi> 
+                  <date>
+                     <hi>the</hi> 11. <hi>of the</hi> 10th. <hi>Month,</hi> 169<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>A Few words in Teſtimony concerning the Life and Death of <hi>Sarah Beckwith,</hi> Daughter of <hi>Mar<g ref="char:EOLhyphen"/>maduke</hi> and <hi>Elizabeth Beckwith,</hi> &amp;c. Who Departed this Life the <hi>24th. 9th.</hi> Month, <hi>1691.</hi>
+            </head>
+            <p>SHe was of my familiar acquaintance from a Child for I lived divers years during her Child-hood in her fathers houſe, ſhe was born of beliveing parents, and under their eye and care educated in the way and profeſſion of truth, which God Almighty in bleſſing doth regard: and I am well ſatisfied that in her own ſoul ſhe was a real lover of truth from a Child, for ſhe was diligent in comeing to Meetings, and when there very retir'd in her mind, not making a ſhew above what ſhe realy was, but even as <hi>Mary</hi> did hid up things in her heart, on the Eight day of the above ſaid Month ſhe wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> viſited with the Sickneſs, ſhe dyed of: in the time whereof ſhe ſeverall times ſent for me, and the firſt t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me I went, ſhe ſaid to me, <hi>Grace</hi> I am glad to ſee thee, thou haſt been often near to me in
+<pb n="12" facs="tcp:172102:9" rendition="simple:additions"/> remembrance and love, &amp; being in a ſweet and tender frame of ſpirit, began to devulge her ſe<g ref="char:EOLhyphen"/>crets to me, ſignifying that for about three quar<g ref="char:EOLhyphen"/>ters of a year laſt, ſhe had ſought the Lord with her heart, both night and day, and perticularized divers times and places, wherein the Lord had very comfortably broken in upon her, and filled her heart with his love, that deeply ingaged her to praiſe his Name; and I being ſent for the night hefore ſhe dyed, ſhe ſaid, Lord give me breath to praiſe thy Name withall: And ſever<g ref="char:EOLhyphen"/>all Friends being about her, ſhe ſaid, Lord com<g ref="char:EOLhyphen"/>fort us together this Night, and bleſſed be his Name, he graciouſly anſwered the deſires of her ſoul, and made us partakers of his unſpeakable kindneſs together, to the overcoming of us, the remembrance of which viſitation, hath been often refreſhing to me, even as marrow to my bones: For the Lord broke in upon her and a ſtream from the living fountain, Iſſued forth unto her, and comfortably we were made par<g ref="char:EOLhyphen"/>takers with her of the water of Life, and the liveing food which nouriſheth the ſoul up in God to eternal life: And many were the whol<g ref="char:EOLhyphen"/>ſome expreſſions of advice which ſhe gave to us all; And then turned her a ſide to me, and ſaid you give me no councel, whereunto I anſwered, dear <hi>Sarah,</hi> thou wants not a Counceller, we are willing to hear and receive councel from thee, She anſwered and ſaid it is written your eyes
+<pb n="13" facs="tcp:172102:9" rendition="simple:additions"/> ſhall ſee you Teacher, and your eares ſhall hear a voice, ſaying, this is the way walke in it: And ſhe further added, it is a pleaſant way, and after divers other comfortable expreſſions, which came from her, ſhe ſignifying to us that ſhe had full aſſu<g ref="char:EOLhyphen"/>rance of the ſalvation of her ſoul: Her three Siſ<g ref="char:EOLhyphen"/>ters being before her, ſhe adviſed them to ſeek the Lord, while he was to be found, and ſaid he was found of them that ſought, him and I am well ſatis<g ref="char:EOLhyphen"/>fyed ſhe ſpake what ſhe, knew, and bare teſtimo<g ref="char:EOLhyphen"/>ny what ſhe witneſſed: Bleſſed be the Lord for ever, who gave her the knowledge of himſelf in the face of Jeſus Chriſt, and out of the mouth of a Babe did ſhe ſhew his praiſe, even him whom the World knows not, nor can they praiſe his Name and ſuch was the ſweet and heavenly frame, that ſhe was that night exerciſed in; That I was made to ſay in my ſoul, better is the day of Death to thoſe who dye in the Lord and layeth down their heads in peace with him, then the day of their birth; and very near her departure out of this World, ſhe ſaid I am going to dear <hi>Robert Lodge,</hi> and you muſt follow, (and reſt with us that loves the Lord and his heavenly appearance) and ſhe growing very weak in body, yet ſtrong in the Lord, being filled with love and ſpirituall bleſſ<g ref="char:EOLhyphen"/>ings, yet her Voice low, and ſome few of her laſt words could not be underſtood, quietly like a Lamb without ſpot, ſhe departed this Life, the day and year above written.</p>
+            <pb n="14" facs="tcp:172102:10"/>
+            <p>And the 29th. of the ſame Month, as I was ſitting in our own houſe at my employment an unſpeakable weight fell upon my ſpirit, and remained with me a conſiderable time which occaſioned a cry to run through me: Lord what is the matter, and immediatly theſe words run through my life, Although <hi>Sarah Beckwith</hi> be dead, yet her Memoriall ſhall live, and be ſer<g ref="char:EOLhyphen"/>viceable to this generation, and to generations, that are yet to come. And ſo to the God of all our mercies who filled the ſoule of this Inno<g ref="char:EOLhyphen"/>cent, tender ſtripling, <hi>Abrahams</hi> Daughter, with his heavenly appearances, and devine bleſſings be everlaſting praiſe and glory for ever.</p>
+            <closer>
+               <signed>Grace Bins,</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <p>COncerning my dear Companion <hi>Sarah Beckwith,</hi> this teſtimony I have to bear, I having had the knowledge of her for many years and being much with her in the time of her ſickneſs, and alſo preſent when ſhe departed this life and being an eye and eare witneſs of the love and great goodneſs of the Lord liveingly teſtified of to us from her own mouth upon her dying bed according to the diſpenſation of the grace of god given me I am bold to ſay, that ſhe dye not as fool dyeth, that fear not the Lord, for her heart was ſet to ſerve and fear him, and
+<pb n="15" facs="tcp:172102:10"/> it was her earneſt deſire, and advice to thoſe that were Young in years to priſe their time and to ſeek the way of the Lord, for ſhe gave teſtimony of it, to be a pleaſant way; And ſaid ſhe was come to witneſs it ſo to be, and my deſire is that we that are yet in this Tabernacle, may from a grounded experience, be brought to teſti<g ref="char:EOLhyphen"/>fy the ſame, and this is my beleife concerning her that ſhe is entered into everlaſting reſt: Oh the heavenly expreſſions Which came from her in the time of her ſickneſs, and the weakneſs ſhe was under, which I hope never will be forgotten by us, but remaine within us, in our remember<g ref="char:EOLhyphen"/>ance; She begged of the Lord that he would add to her time in this World, untill ſhe had a full aſſurance of her ſalvation, which he did graciouſ<g ref="char:EOLhyphen"/>ly anſwer, for ſhe ſignified to us that ſhe did not doubt of it, and ſhe deſired the Lord with much fervency of Spirit that he would give her breath to praiſe his Name; And the Lord heard, and anſwered from his Holy place, for he did not only give her breath, but a Mouth alſo to praiſe him, Oh! the Heavenly power that ſhe was filled with and carried on in that devine and ſweet refreſh<g ref="char:EOLhyphen"/>ing frame of ſpirit, that it was of unſpeakable comfort and refreſhment to the ſtanders by, and great ſatisfaction to thoſe ſhe was outwardly relat<g ref="char:EOLhyphen"/>ed to and near, and dear unto them every way, ſhe was from a Child Zealouſly affected with the truth and the ſociety of Gods faithfull people, and
+<pb n="16" facs="tcp:172102:11" rendition="simple:additions"/> her heart was Inclined after <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he beſt things, and ſhe with <hi>Mary</hi> Choſe the better part which ſhall never be taken from her and the Lord filled her with his power, and opened her mouth in Wiſ<g ref="char:EOLhyphen"/>dome to ſpeak of the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtry; of the knowledge of the devine and beſt things, to the tendering of our hearts and to our refreſhment, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he being my In<g ref="char:EOLhyphen"/>timate companion haveing had much ſociety wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her I have known her often bowed down with many more for the loſs of dear <hi>Robert Lodge,</hi> being a nea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Neighbour to her and often in Company with him I have ſeen her broken into tears in Remem<g ref="char:EOLhyphen"/>brance of him. And when ſhe lay upon her dying bed ſhe much deſired the Company of friends, but more eſpecially thoſe, that were come to wit<g ref="char:EOLhyphen"/>neſs in a larger meaſure, the dealings of the Lord with them, both in judgment and mercy, it wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great ſatisfaction and comfort to her to have thoſe with her, ſhe breathed to the Lord for our ſakes that were young in years, that we might be pre<g ref="char:EOLhyphen"/>ſerved, in the righteous path of holyneſs: I was truely glad that it was my lot to be with her and I do priſe it as a mercy to me Which I deſire while I live I may not forget but anſwer the kind<g ref="char:EOLhyphen"/>neſs of God to me therein, as that which may do me good. I am fully ſatisfied, that ſhe hath laid down her head in peace with God, and is gone to her deſired Haven of reſt for ever, where there is joy that hath no end. And my hearts deſire is, that we that are young in years, may priſe o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="17" facs="tcp:172102:11"/> time in this World <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d may be preſerved <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the evill thereof. That we may fear the Lord while we live, and ſo run our race, that at the cloſure of our days, we may lay down our heads in peace, when time in this world unto us ſhall be no more.</p>
+            <closer>
+               <signed>Katherine Savill.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <p>I Hearing that my dearly beloved Freind <hi>Sarah Beckwith,</hi> My familiar and of great ac<g ref="char:EOLhyphen"/>quaintance we being both of one and the ſame Meeting, became greatly exerciſed with ſickneſs, It was much upon me to go viſit to her, though one of the leaſt of the flock of God I looked on my ſelf to be: yet I haveing certain knowledge and ſence upon my ſpirit; that Innocent Lamb (though as but a Child in years) had an unſpeak<g ref="char:EOLhyphen"/>able love to the truth, and breathings in her ſoul for the proſperity of it I could not be ſatisfied till I gave up my ſelf to go In the love of God which I felt abounding in me towards her; And when I came near the place I can truely ſay, that the free and opened ſprings of life, did abundantly flow forth upon me, and when I came into the room where ſhe was, I found her very Weake as to the outward, yet ſtrong In the Lord as to the Inner man and in an heavenly frame of ſpirit to my great refreſhment, I ſaw it was the great
+<pb n="18" facs="tcp:172102:12" rendition="simple:additions"/> deſire of her heart to have friends to Truth in company with her, and in the time of my being there ſhe was ſo raiſed up by the power of the Lord to bear teſtimony to the truth, in the au<g ref="char:EOLhyphen"/>thority and life thereof that we that were with her did believe that ſometimes ſhe felt no ſickneſs o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n upon her, and as (I with other Friends,) was ſtanding by her at the bed ſide: the power of the Lord Sprung up in her and ſhe opened he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mouth and ſaid, O priſe the truth, O priſe the truth, long for it, O long for it, and when you have received it, hold it faſt let it not go. And ſhe deſired friends, eſpecially thoſe that were young to priſe their time, and to keep in their minds to God, and value truth above all, and the eternall divine power that did accompany her when ſhe delivered thoſe words did ſo tender and break my heart, that I went out of the room a little to eaſe my ſpirit, and when I came in again I found her in the ſame frame of ſpirit mention<g ref="char:EOLhyphen"/>ing our dear deceaſed Friend <hi>Robert Lodge,</hi> and in the like heavenly exerciſe ſhe continued in a ſound underſtanding, ſo farr as we could appre<g ref="char:EOLhyphen"/>hend even unto the very laſt moment of her time in this world: and I am fully ſatisfied, that to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imſelf God almighty hath taken her ſoul, to live and abide wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h him world without end: and I fully believe that through Gods help, that Re<g ref="char:EOLhyphen"/>membrance of her and the ſweet expreſſions de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vered by her, in the power of the Lord will re<g ref="char:EOLhyphen"/>main
+<pb n="19" facs="tcp:172102:12"/> with me, for my advantage in the Lord, while I have a day to live that glory may be g ven to the great God, who is worthy for ever and for evermore.</p>
+            <closer>
+               <signed>Alice Edge.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <p>Katherine Winns, <hi>Teſtimony concerning</hi> Sarah Beckwith, <hi>With a few words of advice to young Friends.</hi>
+            </p>
+            <p>THe dealings of the Lord, are Worthy to be kept in remembrance, and his tender mer<g ref="char:EOLhyphen"/>cies, and loving kindneſs to his ſervants and hand-maids, in this our day and age to be left upon record, to future ages: In which I am concern<g ref="char:EOLhyphen"/>ed according to my meaſure, In this my teſti<g ref="char:EOLhyphen"/>mony, touching a young Maid <hi>Sarah Beckwith,</hi> I being an eye and eare witneſs, with ſeverall o<g ref="char:EOLhyphen"/>thers of the exerciſes ſhe was under and of the teſtimony ſhe bore, through the marvellous and and heavenly power of the Lord upon her dying bed, oh the ſweet, expreſſions that came from her, and the heavenly acknowledgements of the great love of God unto her, which was great com<g ref="char:EOLhyphen"/>fort and ſweet refreſhment to thoſe that were a<g ref="char:EOLhyphen"/>bout her liveing praiſes to our God for ever, who is thus pleaſed to condeſcend to the weak capa<g ref="char:EOLhyphen"/>citys of his handmaids and graciouſly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appear out
+<pb n="20" facs="tcp:172102:13" rendition="simple:additions"/> of the mouths of babes and ſucklings to perfect his praiſe. I cannot well go by the giveing a little hint of her behaviour from her Child-hood, ſo far as it comes within the compaſs of my know<g ref="char:EOLhyphen"/>ledge for I knew her well the having been tabled with me, ſhe was a Child of a ſound and ſolid witt, yet very quick, active and nimble about the year 1680 ſhe being near Eleaven years of age, I was taken priſoner for the truth and ſhe removed to her fathers houſe but ſhortly after ſhe deſired to ſee me, and to ſtay ſome time with me, though ſhe thought I had been keept in a dark hole with<g ref="char:EOLhyphen"/>out light, yet that did not diſcourage her &amp; accor<g ref="char:EOLhyphen"/>dingly ſhe came to me of, which I was exceeding glad, and truely comforted for there was no woman in the <hi>Goal,</hi> but me and ſhe became as my fellow priſoner, and companion, I took great notice and could not but admire that our cloſe confinement did not trouble her and often ſince have had it in my mind conſidering her activity, that ſhe ſhould ſo willingly leave her companions yea her fathers houſe (where ſatisfaction as to the outward every way might have been fully offered and given her) and to take her ſelf to ſuch a ſolitary way of live<g ref="char:EOLhyphen"/>ing with me in that <hi>Goal,</hi> which ſhe did with chearfulneſs during the time of her fathers plea<g ref="char:EOLhyphen"/>ſure and hath often ſaid ſince that ſhe thought ſhe could willingly have lived with us all her days, and after it pleaſed the Lord to viſit her with very great weakneſs, through all wich he wound<g ref="char:EOLhyphen"/>erfully
+<pb n="21" facs="tcp:172102:13" rendition="simple:additions"/> preſerved her memory, though her aflicti<g ref="char:EOLhyphen"/>on was great, and in his own good time wound<g ref="char:EOLhyphen"/>erfully raiſed her up again, contrary to the ex<g ref="char:EOLhyphen"/>pectation of moſt, and as ſhe grew in ſtrength, ſhe grew in the inward knowledge of the dealings of the Lord, with her, as to her inner man and in in<g ref="char:EOLhyphen"/>ward feeling of his tender mercys to her &amp; loveing kindneſs which conſtrained her ſometimes in ſecret and alone to ſound forth liveing praiſes to him, when ſhe thought no eye ſaw her nor eare heard her but the Lord: ſhe was very deligent in comeing to meetings and very watchful I was ſhe in the time thereof, I knew not that ever I ſaw a drooſy or a careleſſe mind appear in her and if at any time in any thing, ſhe had exceeded the ſolide truth, it was her Heavenly Fathers pleaſure to follow her with gentle chaſtiſe ment, in token of his love to her, for it is certain that whom he loves he chaſ<g ref="char:EOLhyphen"/>tens, and this brought a true fear upon her and ſorrow appeared in her, for offending the Lord, though ſhe thought, that none had perceived it, yet it was clearly obſerved by her Mother and in bow<g ref="char:EOLhyphen"/>edneſs of ſpirit ſhe continued, before the Lord, till is was his pleaſure to remitt, and bring her into fa<g ref="char:EOLhyphen"/>vour with him again, where was the centure of her ſoul and the ſafe dwelling place. And in the year 1691. being near 21. years old ſhe was again viſi<g ref="char:EOLhyphen"/>ted with a diſtemper of ſickneſs very like to remove her out of this world &amp; as it grew upon her, her Zeal for the Lord encreaſed, manifeſted largely by the
+<pb n="22" facs="tcp:172102:14" rendition="simple:additions"/> many ſweet &amp; heavenly expreſſions that proceed<g ref="char:EOLhyphen"/>ed from her, ſome of which put <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon Record by her dear Siſter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I heard ſhe deſired to ſee me, and I went to viſit her, and ſtayed with her Four days, ſhe being unwilling that I ſhould leave her whileſt ſhe lived here, in which time ſhe opened her minde to me, and gave me account of the Lords dealings with her, and of his tender Mer<g ref="char:EOLhyphen"/>cyes to her, of which I was right glad, and com<g ref="char:EOLhyphen"/>forted therewith; Her love was wonderfully drawn forth to Friends, often makeing mention of dear <hi>Robert Lodge,</hi> and others, who are in the body whom ſhe greatly deſired to ſee, and ma<g ref="char:EOLhyphen"/>ny weighty truths proceeded from her, and an Heavenly concerne was upon her, for the good of all friends in generall bemoaning the ſtates of thoſe who had received the truth in the begining in the freſh love of it, and were grown careleſs having loſt their firſt love, and taken liberty to act things contrary to truth, and thoſe are evill examples, (ſaid ſhe) to thoſe that are young. And others there are who have a more outward ap<g ref="char:EOLhyphen"/>pearance, and reckons themſelves eſteemed of yet if they live not in the truth and in the in<g ref="char:EOLhyphen"/>joyment of the love of God, it makes no matter the eſteem of others will ſtand them in no ſtead. And ſhe ſaid there was mans righteouſneſs, and the righteouſneſs of God, but mans righteouſneſs muſt be rent oft; and man covered with the righteouſneſs of Chriſt Jeſus, who ſaith I, wiſ<g ref="char:EOLhyphen"/>dom
+<pb n="23" facs="tcp:172102:14"/> leads in the way of righteouſneſs, and in the midſt of the path of Judgment, teaching thoſe that loves me to inherit the ſubſtance, and ſhe deſired that none might in the ſight of good things ſit down, ſhort of the poſſeſſion thereof, ſhe greatly deſired that ancient Friends might remember the viſitation of the love of God un<g ref="char:EOLhyphen"/>to their ſoules, in the dayes of their Youth, and anſwer the end of their viſitation, and take heed that they feel his love to them as in the begin<g ref="char:EOLhyphen"/>ing; And ſaid ſhe, ſome comes amongſt Friends and profeſs Truth, yet walke not anſwereable there unto, but mindes the decking of themſelves outwardly, more then the innocency of Truth inwardly, and this will not ſerve them, or do them any good, and others may get plain ap<g ref="char:EOLhyphen"/>parrel, and come to Meetings, and appear what they are not, the Lord (ſaid ſhe) remove ſuch Mockerys: She often deſired Friends to love the truth, and to take heed, of loving any thing above the truth, and ſhe often deſired Friends to take heed of paſſion, for that hinders the work of the Lord, and to take heed of contention and and ſtrife, envy, and wrath, for ſaid ſhe, that never works the righteouſneſs of God, but agra<g ref="char:EOLhyphen"/>vates and ſtirs up a wrong mind; But in a meek quiet and gentle ſpirit ſpeake one unto another: and ſo you will overcome evill, even with the good: Much good councel and wholeſome ad<g ref="char:EOLhyphen"/>vice was given by her, but little is remembred
+<pb n="24" facs="tcp:172102:15"/> in compariſon, conſidering how much did pro<g ref="char:EOLhyphen"/>ceed from her, and ſaid ſhe; Oh they are happy that feareth the Lord, and obeyeth him, and lives in his truth, and ſhe often expreſſed the pre<g ref="char:EOLhyphen"/>tiouſneſs of the love of God; And often ſaid, how ſweet it is, there is no thing to be compa<g ref="char:EOLhyphen"/>red with it, nor had in eſteem in compariſon of it; I could delight always to feel, and to live in the Enjoyment of it: And when ſhe ſpake of Heavenly things, it was with great reverance and comely deportement: For though ſhe was a Maid of a notable Beauty, and comely coun<g ref="char:EOLhyphen"/>tenance, yet much did ſhe differ and far exceed when the Lord did open in her, and brake forth through her, yea, ſhe was lovely indeed, and appeared as a Bride arrayed in royal Robes ready to meet her Huſband and Bridegroom of her ſoul; And the night before her departure She called to her dear Siſters and tenderly ſalu<g ref="char:EOLhyphen"/>ted them, and gave ſweet counſell and whole<g ref="char:EOLhyphen"/>ſome advice to them, and took her leave of them, worthy to be well obſerved and follow<g ref="char:EOLhyphen"/>ed by them, and all her Fathers family, and even by all that heard her, or may hear thereof, and of her happy and comfortable end, and peace<g ref="char:EOLhyphen"/>able departure out of the World; Even all both Young and Old, eſpecially Young people, for whom ſhe was greatly concerned; often pitty<g ref="char:EOLhyphen"/>ing them, ſaying they were lyable to many temptations, often deſireing their preſervation
+<pb n="25" facs="tcp:172102:15"/> in the Truth often repeating theſe words in the truth and not above it, but under its government, ordered by it, and on this wiſe was ſhe exerciſed in the power of the eternal God wherein ſhe ſweetly finiſhed, her courſe and undoubtedly is at reſt with the Lord where her joy is full, and will continue to her world without end.</p>
+            <p>And it is upon me in the Name of the Lord, to adviſe all where theſe teſtimonys and re<g ref="char:EOLhyphen"/>cords may come, that are young in years to take heed, that you fleight not the day of your viſitation nor ſquander away, your precious time in vain pleaſure and delights of this world, not knowing how ſhort your time may be in it, and how ſoon the thread of your life may be cut: Oh that you would be prevailed with, and ſtirred up in your mindes, and encouraged <hi>to ſeek the Lord whilſt he may be found, and call upon him whilſt he is near,</hi> and take that good advice left upon record, <hi>to Remember your Crea<g ref="char:EOLhyphen"/>tor in the dayes of your youth,</hi> and bear Chriſts, Yoke in your tender years, and the Cha<g ref="char:EOLhyphen"/>ſtiſments of the Lord, and his righteouſs Judg<g ref="char:EOLhyphen"/>ments love: which allways are mixed with mercy, and <hi>Sion,</hi> is redeemed through judg<g ref="char:EOLhyphen"/>ment and her converts through righteouſneſs, and five not the Croſs of Chriſt Jeſus, but take it up daily, and let it crucifie all your vaine deſires and youthfull luſts of the fleſh; an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let no uncomely or untruth like attire come upon
+<pb n="26" facs="tcp:172102:16"/> you no wild or wanton behaviour, or fool<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> talking or jeſting which are not convenie<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> appear in you, but let your gravity and mode<g ref="char:EOLhyphen"/>ration appear unto all, and let your words be few and ſavoury, ſuch as may miniſter grace <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the hearer, and do not think your profeſſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> truth, or being Children of believeing Parent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will ſerve you or Intitle you to the Kingdo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God, for in ſin you are born who are in the tranſgreſſion and by nature the Children <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wrath, as well as others, and <hi>Eſau</hi> the firſt b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> obtained not the Bleſſing, nor can <hi>Iſhmael</hi> it heir with <hi>Iſaack Sarahs</hi> Son, nor can what the Almighty hath done for you Fathers or others in the work of Regeneration and Redemptio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> give you a right to their Spiritual inheritance though you have a ſubtill enemy, perhaps w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſeek to perſwade you, that you have good Pa<g ref="char:EOLhyphen"/>rents, and your education is in the Truth, and you need not be ſo circumſpect, you are b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> young, and that there is time enough for you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> trouble your ſelves, or your minds with thing of Divine nature, and that there are many may live well and dye well, and yet ſhort of you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> profe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion; but believe him not, he is a lye from the beginning, be not deceived God w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not be mocked, ſuch as you ſowe, ſuch will yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reape, for there is need for you to feell Chri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Jeſus for your ſelves, in your own boſom working redemption for you, and clenſing aw<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="27" facs="tcp:172102:16"/> your ſin, for it is ſaid; <hi>Though Iſraell be many as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Sands on the Sea ſhore, yet it is but a remnant <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereof that ſhall be ſaved, and though many were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alled, yet are they but few that are choſen:</hi> And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou are ſure to dye, and you know not whether <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooner or later; and it is alſo upon Record, <hi>As <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Tree falleth ſo it lyeth; As Death leaves Judg<g ref="char:EOLhyphen"/>ment findes, and no unclean thing can enter the Kingdom; and if the righteous ſcarvely be ſaved, where ſhall the ungodly and ſinners appear:</hi> And therefore, dear hearts endeavour, and that right early, <hi>to work out your ſalvation with fear and trembling, ſtrive to make your Calling and Ellecti<g ref="char:EOLhyphen"/>on ſure, that when your Earthly Tabernacle is deſolved, you may have a building with God, an houſe not made with hands eternall in the heavens,</hi> &amp; keep on your ſpiritual progreſs in the ſtraight way of ſelfe denyall; I well remember, that in my young years before I came amongſt Friends, I was one that was not adicted to many evils, as ſome were but in a Zeal for righteouneſs beyond many of my equals I read much and thereby gained a great knowledge of the Scripture, litter<g ref="char:EOLhyphen"/>ally, and therefore thought my ſelf more ſecure, and ſafer then others and was puffed up there<g ref="char:EOLhyphen"/>with &amp; gloryed, therein but when it pleaſed the almighty, to open the eye of my underſtanding, I ſaw it was nothing but <hi>Egypts</hi> glory, and my own righteouſneſs which was but as filthy raggs, and menſtrous cloathes, and my knowledge to
+<pb n="28" facs="tcp:172102:17"/> be conſumed and I to become a fool, that might be wiſe; then I waxed weary of <hi>Egyp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> glory, and refuſed to be a Child to <hi>Pharoah</hi>'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Daughter; chuſing rather to ſuffer affliction<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the People of God, then to enjoy the plea<g ref="char:EOLunhyphen"/>ſure of ſin for a ſeaſon, and all things beca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to me as droſs and dung in compariſon of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> excellency of the glory that was opened in t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> veiw of my mind: But when I turned my bac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Egypt.</hi> and ſett my face <hi>Sion</hi> ward and tra<g ref="char:EOLunhyphen"/>velling thither Oh the many weary ſtepps <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> trode, and the many ſolitary teares I ſhed, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the many ſighs and groans I uttered, for wanto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> full aſſurance of my ſalvation, Oh the man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> buffetting of the enemy my ſoul met with, &amp; th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Combets I under went and the many Baits an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſnares that were laid for me, and the ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> temptations that did attend me many wayes made me ſometimes in ſorrow ſay, ſhall not ſurely one day fall by the hand of t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> enemy, for Satan deſired to have me, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to winnow me as wheat, but the voice of my Saviour ſaid in me, I have prayed for thee that thy faith faile not, and the Lord give me a little comfort, yea a little hope; though it was but as a lightning that ſhined in a dark place: And the Lord helped me with a little help in a a needfull time, and appeared in my ſoul, though but as a warfairing man, that turned in for a night, and made not his aboad in me,
+<pb n="29" facs="tcp:172102:17"/> yet this was my e<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ragement, and the com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t of a little r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mnant that travelled with me <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rough the ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rciſe the Lord brought us into <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ilſt he was known as refiners fire, and as the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llers, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope waſhing away the filth of the daugh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of <hi>Sion</hi> refineing their droſs and takeing <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay their Tinn, that they might be as pure <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d,</hi> ſeaven times tryed in the fire, to come forth <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re and clean.</p>
+            <p>And therefore Dear hearts reſign freely into <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e hands of the liveing God, and bear his in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gnation, becauſe you have ſinned againſt him <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſay with that good man of old, <hi>though thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll me yet will I truſt in thee, and deſpiſe not the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtiſeing of the Lord:</hi> And faint not when you <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e rebuked of him, and ſubmitt willingly to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſtroake of his hand, that he way ſquare you, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en as hewen ſtones; Ellect and pretious fit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lye in his Building; and that by your faith<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llneſs and obediance, you may become as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llers in his Houſe; and take heed of the ſpirit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this World, and do not intermix with it, for you do, it will draw you from your ſpiri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all travel, and give you liberty to take delight <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the vain pleaſures therein, and let looſe your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſires after the honour and riches thereof: But <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſider the lot of him that coveted the wedge <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Goldand the <hi>Babiloniſh Garment,</hi> and de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re you above all a portion of the Spirit of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, for ſome may covet Riches and honnor,
+<pb n="30" facs="tcp:172102:18"/> and may attain to it, yet it is an uncertain gai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and if injoyed is attended with trouble an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſcontent, and on a ſuddain fade away an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come to an end, but ſet your affections on hea<g ref="char:EOLunhyphen"/>venly things, and with the wiſe Merchant ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dig for the pearl that is of great price, and pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with all for the purchaſe of it, ſo will you ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heavenly treaſure in your earthly veſſells, <hi>wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th corrupteth not, nor the Thief break<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh to ſteal, and that is certain and fades <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> away;</hi> and in the injoyment of it is the tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comfort, and great delight, though I am not a<g ref="char:EOLunhyphen"/>gainſt an honeſt care, and right endeavours fo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> needfull things relateing to this life, but do en<g ref="char:EOLunhyphen"/>courage it, for in my youth I had my ſhare, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the outward concerns of this world and I ſough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord with tears to help me with counſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and aſſiſtance in the Managment thereof, ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with ſupplications was I powerd forth befor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him in that Concern, and the Lord aſſiſted me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to my often refreſhment, yet a voice I hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> within me ſaying, firſt and principally, ſeek th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kingdom of heaven and the righteouſneſs there<g ref="char:EOLunhyphen"/>of and other things ſhall be added unto th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then I ſaw that the earthly things were to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kept in their place and the heavenly things hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the firſt and ſupreame place in me and livei<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> praiſes to his Name for ever, who never ſaid t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the houſe of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acob, ſeek my face in vain, for he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> found of them that ſeek him;</hi> for as I ſought hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="31" facs="tcp:172102:18"/> I <hi>found him whom my ſoul loved;</hi> And as I ask<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his Name, I received his imbraces, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſoliceing ſtreames of his love and as I knock<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the pure faith, it was opened to me, to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>now in meaſure the miſteries of his heavenly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdom, and to partake of Spiritual pleaſure, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Heavenly felicity, beyond what ever I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ought upon or could have expected, and of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e earthly things I had no want, and though <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pleaſed the Lord, in the morning of the day, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in the young and tender years, of a rem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant, for a little ſeaſon, to give us the bread of adverſity, and the water of affliction, and exer<g ref="char:EOLhyphen"/>ciſe us in the ſtrait and narrow way wherein he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eads us; even through many tryals and great <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ribulations, yet did he in his due time give us <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſongs of deliverance, and put high pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n our mouthes, and we could often ſay in ſecret, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his wayes was wayes of pleaſantneſs, and his paths, paths of peace, yea he gave us mirth for mourning, beauty for aſhes, and the Oyle of joy and gladneſs, for the ſpirit of heavineſs<g ref="char:punc">▪</g> But I would not be tedious nor too long vary from my teſtimony touching this young wo<g ref="char:EOLhyphen"/>man of whom I was ſpeaking, for I can truely ſay ſhe was dear to me all along, and in her exerciſe I Sympothyſed with her, and alſo in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her care and travell for the ſake of others, ſhe ſaw the narrowneſs of truths way and often ſaid, it was a ſtrait and narrow way and that too few
+<pb n="32" facs="tcp:172102:19" rendition="simple:additions"/> walked therein, but ſaid ſhe, there are many paths that leads to diſtruction and too many treads therein, ſhe deſired us that were to remai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the body after ſhe was gone to her reſt to adviſe Friends to keep to the innocent truth to grow up therein. And I not knowing how ſoon I may be diſſolved, I have a little inlarge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beyond what I at the firſt did think upon, and have as my duty to God, made ſome little men<g ref="char:EOLhyphen"/>tion of my own travells and ſomething of wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by true experience, I have learned both of the difficulties and pleaſures in truth's way if hap<g ref="char:EOLhyphen"/>ply it might be an Incouragment to the honeſt hearted and a caution to the outminded: Much I could write which is before meat this time but I ſhall forbear to add much more at this time and reſt your Friend, with my love to you all my dear Friend, where this may come with fervent deſires for you that you may all have an eye to the right door where enterance into life is and keep in the foot-ſteps of the flocks his companions, to the Word of whoſe grace I doe recommend you, that in your hearts to which you will do well if you take heed, for if obeyed it will teach you, and lead you into all, truth and will be unto you as a cloud by day, and as a pillar of fire by night, and if you move in the motion of it, it will be your ſafe conduct, through your pilgrimage and the time of your ſojorning here, and will rightly order your
+<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="33" facs="tcp:172102:19"/> ſteps, in the truth and gird you up in your graduall groath therein, from ſtrength to ſtrength and from one degree of grace unto another, as dear Children of your heavenly father, delighting in all things that ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y honour him, and ſerveing him in true fear, you will die in his favour, as this Innocent damſell did, who was a faith<g ref="char:EOLhyphen"/>full witneſs for truth in her day, and for righteouſneſs and bore a liveing teſtimony for the Lord on her dying bed. And it is the earneſt deſire of my heart, that the Lord, may preſerve me and all that true<g ref="char:EOLhyphen"/>ly loves and fear him, both young and old to the end of our days, in a ſenſible feeling of the continuance of his love and life un<g ref="char:EOLhyphen"/>to us, and in a true Injoyment of his living preſence amongſt us, and that in his true love we may be dayly concern'd for the proſperity of his truth, and the good of our own ſouls as this Innocent Lamb and handmaid of the Lord our welbeloved was, for whom we cannot ſorrow as thoſe with<g ref="char:EOLhyphen"/>out hope, being well ſatisfied of her ſal<g ref="char:EOLhyphen"/>vation, and do believe ſhe is now entered into everlaſting reſt: And peace where no temptation can reach her nor diſturbance
+<pb n="34" facs="tcp:172102:20" rendition="simple:additions"/> of the enemy can diſquiet her, but in the preſence of her beloved to ſing praiſes for ever: for very often was it her deſire (and ſhe often ſaid) Oh that I had breath to praiſe the Lord, and he is praiſe wor<g ref="char:EOLhyphen"/>thy ſaith my ſoul, O that his own work<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may praiſe, him in Young and Old to whom all praiſes doth belong and free<g ref="char:EOLhyphen"/>ly is aſcribed now henceforth and for ever.</p>
+            <closer>
+               <signed>Katherine Winn.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <p>THe foregoing Relation and the Teſ<g ref="char:EOLhyphen"/>timonys born concerning our Dau<g ref="char:EOLhyphen"/>ghter <hi>Sarah Beckwith,</hi> to the truth there<g ref="char:EOLhyphen"/>of, or can teſtifie haveing been an eye and eare witneſs of the exerciſes ſhe paſ<g ref="char:EOLhyphen"/>ſed through and of the Dealings of the Lord with her in his great mercy and kindneſs upon her dying bed and how the Lord raiſed her up, by his Mighty power to declare thereof. To the great refreſhment and ſatisfaction of all abo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> her at that time. The underſtanding ſhe was endued with, and the Mouth and
+<pb n="35" facs="tcp:172102:20"/> Wiſdome God gave her, therewith to teſtifie for him and h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bleſſed truth was admired of us, and gave us cauſe often to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, Who would not but fear the Lord, who gives wiſdome to the ſimple, and a good underſtanding to thoſe that fear his powerfull name, Who caſts down the mighty from of their ſeats and exaltes thoſe that are of a low degree. Bleſſed be his holy name for evermore, And touching her death we are well ſatisfied, that ſhe dyed well, in peace with God and is at reſt with him. And though our loſs be great in parting with her, yet Greater is her gain in the world which hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o end.</p>
+            <p>And although it is not our deſire to have our Child any way ſet forth; but as it may ſtand with the praiſe of God, and that the honour of that Truth ſhe teſtifyed to, and had her Converſation in: Nor to have our Names made men<g ref="char:EOLhyphen"/>tion off therein, further then to witneſs to the Teſtimonies borne concerning her, and that the Lord may be glorifyed there<g ref="char:EOLhyphen"/>by. Yet, in the fervent deſiers that the good Councell and advice given by her,
+<pb n="36" facs="tcp:172102:21"/> both to Young and Old, made mention of herein. May be cordially cloſed with, we are concerned in this wiſe in the name of the Lord to adviſe all, to give all diligence to make their Calling and Election ſure That they may be prepared and ready to meet the Lord when ever he ſhall call, as undoubtedly this Innocent Lamb was, who had run well in the time of her pilgra<g ref="char:EOLhyphen"/>mage here, and fought the good fight of faith to the finiſhing of her courſe to her joy and to the obtaining the Crown and the Inheritance which hath no end. We could not be wholly ſilent, but in our Duty to God and in honour to truth ſhe received and lived in, make Mention of and bear Record to Gods wounderfull appearance in his love and tender mercy to his people In this our age and day, witneſſed by this his Servant and Handmaide, Who hath ſo marvellouſly appeared in her, and ſhewed himſelfe in ſo Large a meaſure to her, and given her the knowledge of the riches of the world to come, and in ſuch zeal and fervency of ſpirit to de<g ref="char:EOLhyphen"/>clare thereof to others. That all may be encouraged to ſeek the Lord right early,
+<pb n="37" facs="tcp:172102:21"/> while he may be found, and call upon him while he is near and not neglect the day of their viſitation, Nor ſpend their pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious time about things which are below <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hile the one thing needfull is not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade Choice of. But in the Way that God hath caſt up for his people, we may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll walk in. And in the race ſet before <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s we may ſo run as that we may obtain, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd enjoy that heavenly inheritance, which is laid up for all thoſe that love <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord Jeſus Chriſt, and his heavenly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppearance, that God alone may have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raiſe who is everlaſtingly worthy bleſſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ever and for evermore.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Marmaduke Beckwith.</hi>
+                     </item>
+                     <item>&amp; <hi>Elizabeth Beckwith.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
